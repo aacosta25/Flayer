@@ -1,0 +1,46 @@
+.surround {
+	border:2px solid #fb271c;
+	margin:20px;
+}
+
+.jumbotron {
+	background-color: #fb271c;
+	padding: 10px;
+}
+
+.main h1, h2 {
+	color: white;
+	
+}
+
+
+
+.row {
+	text-align: center;
+}
+
+.image {
+	margin: 20px;
+	border:2px solid #190302;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+p {	
+	font-size: 20px;
+	position: relative;
+	top:40px;
+}
+
+span{
+	font-size:30px;
+	color: #fb271c;
+}
+
+.section2{
+	position: relative;
+	top:100px;
+}
+
+.section3{
+	position: relative;
+	top:280px;
